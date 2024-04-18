@@ -1,4 +1,4 @@
-# Dataset-24_SmsSpamCollections_NLP_KMeans
+# SmsSpamCollections
 # Data Loading and Exploration:
 - Loaded the dataset from Google Drive using pandas.
 - Explored the dataset's structure and information.
