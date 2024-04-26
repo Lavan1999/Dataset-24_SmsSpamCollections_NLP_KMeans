@@ -1,5 +1,5 @@
 # SmsSpamCollections
-# Data Loading and Exploration:
+## Data Loading and Exploration:
 - Loaded the dataset from Google Drive using pandas.
 - Explored the dataset's structure and information.
 - Checked for missing values in the dataset.
